@@ -1,6 +1,6 @@
 ## Hi there 👋
 My name is Typogalaxy.
 ### I am currently working on:
-[alien-commons](https://github.com/LazyAlienServer/alien-commons)
+[aliencommons](https://github.com/LazyAlienServer/aliencommons)
 ### My favourite language:
 Python
